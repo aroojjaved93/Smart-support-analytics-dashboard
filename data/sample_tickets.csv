@@ -1,0 +1,3 @@
+ticket_id,category,resolution_time,sla_breached
+1,Login Issue,5,No
+2,API Failure,12,Yes
