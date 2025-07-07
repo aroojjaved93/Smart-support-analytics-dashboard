@@ -56,7 +56,7 @@ cd Smart-support-analytics-dashoard
 pip install -r requirements.txt
 python dashboard.py
 
-
+```
 
 ⸻
 ✅ Sample data provided inside data/. You can connect your JIRA API or upload CSV export.
