@@ -58,10 +58,9 @@ python dashboard.py
 
 ```
 
-⸻
 ✅ Sample data provided inside data/. You can connect your JIRA API or upload CSV export.
 
-⸻
+
 
 🙌 Contributions Welcome
 
@@ -69,7 +68,7 @@ Star ⭐ | Fork 🍴 | Share 🔁
 
 Feel free to open issues, suggest features, or contribute directly. Let’s improve support analytics together!
 
-⸻
+
 
 📩 Contact
 
@@ -78,7 +77,7 @@ Built by Arooj Javed
 ✉️ Email: available on profile
 🌍 Location: Pakistan 🇵🇰
 
-⸻
+
 
 📌 This project is part of a broader research initiative to enhance support systems with data-driven tools.
 
