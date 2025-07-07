@@ -1,60 +1,87 @@
-# 🚀 Smart Support Analytics Dashboard
+# 📊 Smart Support Analytics Dashboard
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/aroojjaved93/smart-support-analytics-dashboard?style=social)]()
-[![Forks](https://img.shields.io/github/forks/aroojjaved93/smart-support-analytics-dashboard?style=social)]()
+> 🔍 A real-time analytics solution to **visualize SLA breaches**, monitor **team performance**, and predict support trends — built with Python for JIRA-based workflows.
 
-A powerful open-source dashboard that gives support teams real-time visibility into SLA performance, ticket backlog, agent productivity, and breach risks — all powered by AI and simple data workflows.
-
-## 💡 What It Does
-
-This tool helps tech support teams monitor and predict SLA breaches, visualize performance, and take proactive actions — using just CSV files or JIRA exports.
-
-**Key Features:**
-- 📊 Real-time dashboard with resolution time and breach statistics
-- 🧠 Predictive alerts for SLA violations
-- 🧾 Agent-level performance reports
-- 🔎 Insights by ticket category, urgency, and trend
-- 🔄 Optional JIRA API integration (in progress)
-
-## 📦 Tech Stack
-
-- **Python** (Data processing & prediction)
-- **Flask** (Backend API)
-- **Plotly & HTML** (Interactive charts)
-- **Jupyter Notebooks** (Data experiments)
-- **CSV or JIRA API** (Ticket sources)
-
-## 🛠️ Setup Instructions
-
-```bash
-git clone https://github.com/aroojjaved93/smart-support-analytics-dashboard.git
-cd smart-support-analytics-dashboard
-pip install -r requirements.txt
-python backend/app.py
-```
-
-Then open `frontend/index.html` in your browser.
-
-## 🧪 Sample Data
-
-Check the `/data/sample_tickets.csv` file to test the dashboard locally.
-
-## 🙌 How You Can Help
-
-If you find this project helpful:
-- ⭐ **Star this repo** to show support!
-- 🍴 **Fork it** and build something on top!
-- 🛠️ Open issues, suggest features, or contribute code
-
-All kinds of contributions are welcome. Let’s make AI-powered support smarter together!
-
-## 📜 License
-
-This project is licensed under the MIT License.
+![Stars](https://img.shields.io/github/stars/aroojjaved93/Smart-support-analytics-dashoard?style=social)
+![Forks](https://img.shields.io/github/forks/aroojjaved93/Smart-support-analytics-dashoard?style=social)
+![License](https://img.shields.io/github/license/aroojjaved93/Smart-support-analytics-dashoard)
+![Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![SLA](https://img.shields.io/badge/Focus-SLA%20Monitoring-orange)
 
 ---
 
-Made with ❤️ by [Arooj Javed](https://github.com/aroojjaved93)
+## 🚀 What It Does
 
+This project offers a **visual monitoring system** for support teams using JIRA. It tracks SLA status, breach risks, team performance, and historical trends — all in a dashboard format.
+
+### 🎯 Goal
+Help support managers take **data-driven decisions**, reduce **ticket resolution delays**, and maintain **high SLA adherence**.
+
+---
+
+## ⚙️ Features
+
+- 📈 Dynamic SLA breach visualization (line, bar, pie)
+- 🧠 Visual alerts for SLA-critical areas
+- ⏱️ Real-time ticket status per agent/category
+- 💼 Team-based performance comparison
+- 📤 Dashboard-ready CSV export options
+- 🔄 Built using Plotly, Pandas & open APIs
+- 📁 Sample dataset + easy-to-plug data templates
+
+---
+
+## 🧑‍💼 Ideal For
+
+- **Support Managers** tracking real-time KPIs
+- **Tech Leads** optimizing ticket loads
+- **Ops Teams** handling SLA compliance
+- **Engineers** automating JIRA analytics
+
+---
+
+## 📚 Related Publications & Blogs
+
+- 📄 [IJARIIT Research Paper: Smart Dashboard for SLA Monitoring](https://www.ijariit.com/manuscript/ai-powered-dashboard-for-sla-monitoring-and-team-performance-in-jira/)
+- ✍️ [Dev.to: Visualize SLA Breaches, Trends & Team Performance](https://dev.to/aroojjaved93/smart-support-analytics-dashboard-visualize-sla-breaches-trends-team-performance-26og)
+- 📝 [Medium: How I Built a Smart SLA Dashboard](https://aroojjaved93.medium.com/how-i-built-a-smart-sla-dashboard-to-predict-breaches-and-boost-support-efficiency-8ca9e8cd7dfc)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/aroojjaved93/Smart-support-analytics-dashoard.git
+cd Smart-support-analytics-dashoard
+pip install -r requirements.txt
+python dashboard.py
+
+
+
+⸻
+✅ Sample data provided inside data/. You can connect your JIRA API or upload CSV export.
+
+⸻
+
+🙌 Contributions Welcome
+
+Star ⭐ | Fork 🍴 | Share 🔁
+
+Feel free to open issues, suggest features, or contribute directly. Let’s improve support analytics together!
+
+⸻
+
+📩 Contact
+
+Built by Arooj Javed
+🔗 GitHub: @aroojjaved93
+✉️ Email: available on profile
+🌍 Location: Pakistan 🇵🇰
+
+⸻
+
+📌 This project is part of a broader research initiative to enhance support systems with data-driven tools.
+
+---
+
+Let me know if you'd like a **PDF, DOCX, or image banner version** of this README. |oai:code-citation|
