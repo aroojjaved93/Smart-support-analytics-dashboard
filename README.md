@@ -72,9 +72,9 @@ Feel free to open issues, suggest features, or contribute directly. Let’s impr
 📩 Contact
 
 Built by Arooj Javed
-🔗 GitHub: @aroojjaved93
-✉️ Email: available on profile
-🌍 Location: Pakistan 🇵🇰
+- 🔗 GitHub: @aroojjaved93
+- ✉️ Email: available on profile
+- 🌍 Location: Pakistan 🇵🇰
 
 
 
