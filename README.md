@@ -1,7 +1,5 @@
 # 📊 Smart Support Analytics Dashboard
-![Stars](https://img.shields.io/github/stars/aroojjaved93/Smart-support-analytics-dashoard?style=social)
-![Forks](https://img.shields.io/github/forks/aroojjaved93/Smart-support-analytics-dashoard?style=social)
-![License](https://img.shields.io/github/license/aroojjaved93/Smart-support-analytics-dashoard)
+> ![License](https://img.shields.io/github/license/aroojjaved93/Smart-support-analytics-dashoard)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![SLA](https://img.shields.io/badge/Focus-SLA%20Monitoring-orange)
 
