@@ -1,12 +1,13 @@
 # 📊 Smart Support Analytics Dashboard
-
-> 🔍 A real-time analytics solution to **visualize SLA breaches**, monitor **team performance**, and predict support trends — built with Python for JIRA-based workflows.
-
 ![Stars](https://img.shields.io/github/stars/aroojjaved93/Smart-support-analytics-dashoard?style=social)
 ![Forks](https://img.shields.io/github/forks/aroojjaved93/Smart-support-analytics-dashoard?style=social)
 ![License](https://img.shields.io/github/license/aroojjaved93/Smart-support-analytics-dashoard)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![SLA](https://img.shields.io/badge/Focus-SLA%20Monitoring-orange)
+
+> 🔍 A real-time analytics solution to **visualize SLA breaches**, monitor **team performance**, and predict support trends — built with Python for JIRA-based workflows.
+
+
 
 ---
 
