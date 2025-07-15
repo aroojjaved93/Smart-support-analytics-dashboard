@@ -47,7 +47,7 @@ Help support managers take **data-driven decisions**, reduce **ticket resolution
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 ```bash
 git clone https://github.com/aroojjaved93/Smart-support-analytics-dashoard.git
