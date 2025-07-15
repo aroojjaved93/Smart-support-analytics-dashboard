@@ -30,7 +30,7 @@ Help support managers take **data-driven decisions**, reduce **ticket resolution
 
 ---
 
-## 🧑‍💼 Ideal For
+# 🧑‍💼 Ideal For
 
 - **Support Managers** tracking real-time KPIs
 - **Tech Leads** optimizing ticket loads
