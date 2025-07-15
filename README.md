@@ -39,7 +39,7 @@ Help support managers take **data-driven decisions**, reduce **ticket resolution
 
 ---
 
-## 📚 Related Publications & Blogs
+# 📚 Related Publications & Blogs
 
 - 📄 [IJARIIT Research Paper: Smart Dashboard for SLA Monitoring](https://www.ijariit.com/manuscript/ai-powered-dashboard-for-sla-monitoring-and-team-performance-in-jira/)
 - ✍️ [Dev.to: Visualize SLA Breaches, Trends & Team Performance](https://dev.to/aroojjaved93/smart-support-analytics-dashboard-visualize-sla-breaches-trends-team-performance-26og)
