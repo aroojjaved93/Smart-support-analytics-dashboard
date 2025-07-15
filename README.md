@@ -13,7 +13,7 @@
 
 This project offers a **visual monitoring system** for support teams using JIRA. It tracks SLA status, breach risks, team performance, and historical trends — all in a dashboard format.
 
-### 🎯 Goal
+## 🎯 Goal
 Help support managers take **data-driven decisions**, reduce **ticket resolution delays**, and maintain **high SLA adherence**.
 
 ---
