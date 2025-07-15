@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 What It Does
+# 🚀 What It Does
 
 This project offers a **visual monitoring system** for support teams using JIRA. It tracks SLA status, breach risks, team performance, and historical trends — all in a dashboard format.
 
